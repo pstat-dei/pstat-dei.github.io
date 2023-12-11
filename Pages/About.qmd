@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+> At its core, our department views diversity and inclusion as critical within our mission to educate and prepare the future workforce of data scientists and quantitative thinkers. Increasing diversity across our field is essential in creating more productive, representative, and enriching outcomes as well as innovative solutions to critical problems. We recognize that historically, the job markets and academic communities in statistical theory and methods, financial mathematics, and actuarial science have been weighted toward racial, gender, and socioeconomically privileged communities. We are dedicated to correcting this imbalance in our own community. 
+
+--_DEI Statement, from the <a href="https://www.pstat.ucsb.edu/" target="_blank">PSTAT Main Webpage</a>_

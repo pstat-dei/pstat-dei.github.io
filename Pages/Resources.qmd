@@ -1,0 +1,20 @@
+---
+title: "Resources"
+---
+
+## On-Campus
+
+-   <a href="https://diversity.ucsb.edu/" target="_blank">UCSB Office of Diversity, Equity, and Inclusion</a>
+
+-   <a href="https://wellbeing.ucsb.edu/dei-departments" target="_blank">UCSB Wellbeing Page on DEI</a>
+
+-   <a href="https://firstgen.ucsb.edu/" target="_blank">UCSB First-Generation Community</a>
+
+
+## Off-Campus
+
+-   <a href="https://datascijedi.org/" target="_blank">Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group</a> (through the <a href="https://www.amstat.org/" target="_blank">American Statistical Association</a>)
+
+-   <a href="https://ostem.org/" target="_blank">Out in Stem (oSTEM)</a>
+
+-   <a href="https://awm-math.org/" target="_blank">Association for Women in Mathematics (AWM)</a>

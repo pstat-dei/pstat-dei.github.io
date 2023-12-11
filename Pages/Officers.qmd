@@ -1,0 +1,299 @@
+---
+title: "Officers"
+---
+
+## Faculty and Staff
+
+<!-- OFFICER: Dr. Carter -->
+:::{.callout-note collapse="false"}
+## Dr. Andrew Carter (he/him)
+
+:::{style="padding-left:10px"}
+### **Dr. Andrew Carter (he/him)**
+
+::::{.columns}
+
+:::{.column width="30%"}
+<img src = "../Images/Profiles/Carter_AV.jpg" width = 70%>
+:::
+
+:::{.column width="70%"}
+
+Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+
+- **Departmental Role:** Associate Professor and Graduate Vice Chair
+- **Email:** <a href="mailto:carter@pstat.ucsb.edu">carter@pstat.ucsb.edu</a>
+:::
+
+::::
+
+:::
+
+:::
+
+<!-- OFFICER: Myranda -->
+:::{.callout-note collapse="false"}
+## Myranda Flores (she/her)
+
+:::{style="padding-left:10px"}
+### **Myranda Flores (she/her)**
+
+::::{.columns}
+
+:::{.column width="30%"}
+<img src = "../Images/Profiles/Flores_M.jpg" width = 70%>
+:::
+
+:::{.column width="70%"}
+
+Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+
+- **Departmental Role:** Student Affairs Manager and Graduate Program Advisor
+- **Email:** <a href="mailto:studentaffairs@pstat.ucsb.edu">studentaffairs@pstat.ucsb.edu</a>
+:::
+
+::::
+
+:::
+
+:::
+
+
+
+
+<!-- OFFICER: Kallie -->
+:::{.callout-note collapse="false"}
+## Kallie Hill (she/her)
+
+:::{style="padding-left:10px"}
+### **Kallie Hill (she/her)**
+
+::::{.columns}
+
+:::{.column width="30%"}
+<img src = "../Images/Profiles/Hill_Kallie.png" width = 70%>
+:::
+
+:::{.column width="70%"}
+
+Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+
+- **Departmental Role:** Business Officer
+- **Email:** <a href="mailto:mso@pstat.ucsb.edu">mso@pstat.ucsb.edu</a>
+:::
+
+::::
+
+:::
+
+:::
+
+
+
+
+
+<!-- OFFICER: Dr. Meiring -->
+:::{.callout-note collapse="false"}
+## Dr. Wendy Meiring (she/her)
+
+:::{style="padding-left:10px"}
+### **Dr. Wendy Meiring (she/her)**
+
+::::{.columns}
+
+:::{.column width="30%"}
+<img src = "../Images/Profiles/Meiring_W.jpg" width = 70%>
+:::
+
+:::{.column width="70%"}
+
+Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+
+- **Departmental Role:** Professor (Undergraduate Vice Chair)
+- **Email:** <a href="mailto:meiring@pstat.ucsb.edu">meiring@pstat.ucsb.edu</a>
+:::
+
+::::
+
+:::
+
+:::
+
+
+
+<!-- OFFICER: Dr. Miller -->
+:::{.callout-note collapse="false"}
+## Dr. Jack Miller (they/them)
+
+:::{style="padding-left:10px"}
+### **Dr. Jack Miller (they/them)**
+
+::::{.columns}
+
+:::{.column width="30%"}
+<img src = "../Images/Profiles/Miller_JB.jpg" width = 70%>
+:::
+
+:::{.column width="70%"}
+
+Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+
+- **Departmental Role:** Teaching Professor
+- **Email:** <a href="mailto:jbmiller@pstat.ucsb.edu">jbmiller@pstat.ucsb.edu</a>
+:::
+
+::::
+
+:::
+
+:::
+
+
+
+
+<!-- OFFICER: Dr. Ravat -->
+:::{.callout-note collapse="false"}
+## Dr. Uma Ravat (she/her)
+
+:::{style="padding-left:10px"}
+### **Dr. Uma Ravat (she/her)**
+
+::::{.columns}
+
+:::{.column width="30%"}
+<img src = "../Images/Profiles/Ravat_UV.jpg" width = 70%>
+:::
+
+:::{.column width="70%"}
+
+Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+
+- **Departmental Role:** Assistant Teaching Professor
+- **Email:** <a href="mailto:umaravat@pstat.ucsb.edu">umaravat@pstat.ucsb.edu</a>
+:::
+
+::::
+
+:::
+
+:::
+
+
+
+<!-- OFFICER: Dr. Shkolnik -->
+:::{.callout-note collapse="false"}
+## Dr. Alex Shkolnik (he/him)
+
+:::{style="padding-left:10px"}
+### **Dr. Alex Shkolnik (he/him)**
+
+::::{.columns}
+
+:::{.column width="30%"}
+<img src = "../Images/Profiles/Shkolnik_A.png" width = 70%>
+:::
+
+:::{.column width="70%"}
+
+Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+
+- **Departmental Role:** Assistant Professor
+- **Email:** <a href="mailto:shkolnik@pstat.ucsb.edu">shkolnik@pstat.ucsb.edu</a>
+:::
+
+::::
+
+:::
+
+:::
+
+
+<!-- OFFICER: Dr. Swenson -->
+:::{.callout-note collapse="false"}
+## Dr. Julianne Swenson (she/her)
+
+:::{style="padding-left:10px"}
+### **Dr. Julianne Swenson (she/her)**
+
+::::{.columns}
+
+:::{.column width="30%"}
+<img src = "../Images/Profiles/placeholder.png" width = 70%>
+:::
+
+:::{.column width="70%"}
+
+Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+
+- **Departmental Role:** Continuing Lecturer
+- **Email:** <a href="mailto:swenson@pstat.ucsb.edu">swenson@pstat.ucsb.edu</a>
+:::
+
+::::
+
+:::
+
+:::
+
+
+\
+
+## Graduate and Undergraduate
+
+<!-- OFFICER: Karina -->
+:::{.callout-note collapse="false"}
+## Karina Aponte (she/her)
+
+:::{style="padding-left:10px"}
+### **Karina Aponte (she/her)**
+
+::::{.columns}
+
+:::{.column width="30%"}
+<img src = "../Images/Profiles/placeholder.png" width = 70%>
+:::
+
+:::{.column width="70%"}
+
+Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+
+- **Departmental Role:** PhD Student
+- **Email:** <a href="mailto:kaponte@pstat.ucsb.edu">kaponte@pstat.ucsb.edu</a>
+:::
+
+::::
+
+:::
+
+:::
+
+
+<!-- OFFICER: Ethan -->
+:::{.callout-note collapse="false"}
+## Ethan Marzban (he/him)
+
+:::{style="padding-left:10px"}
+### **Ethan Marzban (he/him)**
+
+::::{.columns}
+
+:::{.column width="30%"}
+<img src = "../Images/Profiles/Marzban_E.png" width = 70%>
+:::
+
+:::{.column width="70%"}
+
+Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+
+- **Departmental Role:** PhD Student
+- **Email:** <a href="mailto:epmarzban@pstat.ucsb.edu">epmarzban@pstat.ucsb.edu</a>
+:::
+
+::::
+
+:::
+
+:::
+
+
+

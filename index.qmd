@@ -1,0 +1,22 @@
+
+<div class="bgimg">
+
+<h1  style="font-size:60px">
+  DIVERSITY, EQUITY, and INCLUSION
+</h1>
+
+
+<h3>
+  Department of Statistics and Applied Probability
+  <br />
+  University of California, Santa Barbara
+</h3>
+
+
+</div>
+
+\
+
+Welcome to the homepage of the Diversity, Equity, and Inclusion (DEI) efforts in the Department of Statistics and Applied Probability (PSTAT) at the University of California, Santa Barbara (UCSB). 
+
+Here, you can learn about our department's DEI mission statement, the officers currently serving on the DEI Subcommittee, and any upcoming events being hosted. We also hope to include links to useful resources (both on-campus and off-campus) relating to DEI, department climate, and many other related issues.

@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "PSTAT DEI"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Pages/Officers.qmd
+        text: Officers
+      - href: Pages/About.qmd
+        text: About
+      - href: Pages/Events.qmd
+        text: Calendar and Events
+      - href: Pages/Resources.qmd
+        text: Resources
+      
+  page-footer: "Site Originally Designed by Ethan Marzban using <a href='https://quarto.org/' target='_blank'>Quarto</a>; ©2023-2024"
+  favicon: "Images/Logos_Icons/pstat_logo.svg"
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+
