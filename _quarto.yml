@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "PSTAT DEI"
+  title: "PSTAT DEI Subcommittee"
   navbar:
     left:
       - href: index.qmd
