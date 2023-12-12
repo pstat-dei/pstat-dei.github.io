@@ -4,6 +4,8 @@ title: "Resources"
 
 ## On-Campus
 
+-   <a href="https://studentlife.sa.ucsb.edu/equity-inclusion/bias" target="_blank">Report an Incident of Bias to the University</a>
+
 -   <a href="https://diversity.ucsb.edu/" target="_blank">UCSB Office of Diversity, Equity, and Inclusion</a>
 
 -   <a href="https://wellbeing.ucsb.edu/dei-departments" target="_blank">UCSB Wellbeing Page on DEI</a>
@@ -11,6 +13,8 @@ title: "Resources"
 -   <a href="https://firstgen.ucsb.edu/" target="_blank">UCSB First-Generation Community</a>
 
 -   <a href="https://obsd.sa.ucsb.edu/" target="_blank">UCSB Office of Black Student Development (OBSD)</a>
+
+-   <a href="https://titleix.ucsb.edu/" target="_blank">UCSB Office of Title IX and Sexual Harassment Policy Compliance</a>
 
 ## Off-Campus
 
