@@ -10,6 +10,7 @@ title: "Resources"
 
 -   <a href="https://firstgen.ucsb.edu/" target="_blank">UCSB First-Generation Community</a>
 
+-   <a href="https://obsd.sa.ucsb.edu/" target="_blank">UCSB Office of Black Student Development (OBSD)</a>
 
 ## Off-Campus
 
