@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\nDIVERSITY, EQUITY, and INCLUSION\n",
+    "objectID": "Pages/Resources.html",
+    "href": "Pages/Resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "DIVERSITY, EQUITY, and INCLUSION\n\n\nDepartment of Statistics and Applied Probability  University of California, Santa Barbara\n\n\n\n\nWelcome to the homepage of the Diversity, Equity, and Inclusion (DEI) Subcommittee in the Department of Statistics and Applied Probability (PSTAT) at the University of California, Santa Barbara (UCSB).\nHere, you can learn about our department’s DEI mission statement, the officers currently serving on the DEI Subcommittee, and any upcoming events being hosted. We also hope to include links to useful resources (both on-campus and off-campus) relating to DEI, department climate, and many other related issues.\nThe best way to contact us is at dei@pstat.ucsb.edu. (Please note that sending an email to this address will result in an email being sent to all officers)"
+    "text": "Report an Incident of Bias to the University\nUCSB Office of Diversity, Equity, and Inclusion\nUCSB Wellbeing Page on DEI\nUCSB Page on Basic Needs\nUCSB First-Generation Community\nUCSB Office of Black Student Development (OBSD)\nUCSB Office of Title IX and Sexual Harassment Policy Compliance"
   },
   {
-    "objectID": "Pages/Events.html#events",
-    "href": "Pages/Events.html#events",
-    "title": "Calendar and Events",
-    "section": "Events",
-    "text": "Events\nPlease check back soon for a list of our upcoming events!"
+    "objectID": "Pages/Resources.html#on-campus",
+    "href": "Pages/Resources.html#on-campus",
+    "title": "Resources",
+    "section": "",
+    "text": "Report an Incident of Bias to the University\nUCSB Office of Diversity, Equity, and Inclusion\nUCSB Wellbeing Page on DEI\nUCSB Page on Basic Needs\nUCSB First-Generation Community\nUCSB Office of Black Student Development (OBSD)\nUCSB Office of Title IX and Sexual Harassment Policy Compliance"
+  },
+  {
+    "objectID": "Pages/Resources.html#off-campus",
+    "href": "Pages/Resources.html#off-campus",
+    "title": "Resources",
+    "section": "Off-Campus",
+    "text": "Off-Campus\n\nJustice, Equity, Diversity, and Inclusion (JEDI) Outreach Group (through the American Statistical Association)\nOut in Stem (oSTEM)\nAssociation for Women in Mathematics (AWM)"
   },
   {
     "objectID": "Pages/Officers.html",
@@ -35,31 +42,24 @@
     "text": "Graduate and Undergraduate\n\n\n\n\n\n\n\nKarina Aponte (she/her)\n\n\n\n\n\n\nKarina Aponte (she/her)\n\n\n\n\nShort biography can go here, with some interesting facts and perhaps some words about this officer’s commitment to DEI efforts.\n\nDepartmental Role: PhD Student\nEmail: kaponte@pstat.ucsb.edu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEthan Marzban (he/him)\n\n\n\n\n\n\nEthan Marzban (he/him)\n\n\n\n\nShort biography can go here, with some interesting facts and perhaps some words about this officer’s commitment to DEI efforts.\n\nDepartmental Role: PhD Student\nEmail: epmarzban@pstat.ucsb.edu"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nDIVERSITY, EQUITY, and INCLUSION\n",
+    "section": "",
+    "text": "DIVERSITY, EQUITY, and INCLUSION\n\n\nDepartment of Statistics and Applied Probability  University of California, Santa Barbara\n\n\n\n\nWelcome to the homepage of the Diversity, Equity, and Inclusion (DEI) Subcommittee in the Department of Statistics and Applied Probability (PSTAT) at the University of California, Santa Barbara (UCSB).\nHere, you can learn about our department’s DEI mission statement, the officers currently serving on the DEI Subcommittee, and any upcoming events being hosted. We also hope to include links to useful resources (both on-campus and off-campus) relating to DEI, department climate, and many other related issues.\nThe best way to contact us is at dei@pstat.ucsb.edu. (Please note that sending an email to this address will result in an email being sent to all officers)"
+  },
+  {
+    "objectID": "Pages/Events.html#events",
+    "href": "Pages/Events.html#events",
+    "title": "Calendar and Events",
+    "section": "Events",
+    "text": "Events\nPlease check back soon for a list of our upcoming events!"
+  },
+  {
     "objectID": "Pages/About.html",
     "href": "Pages/About.html",
     "title": "About",
     "section": "",
     "text": "At its core, our department views diversity and inclusion as critical within our mission to educate and prepare the future workforce of data scientists and quantitative thinkers. Increasing diversity across our field is essential in creating more productive, representative, and enriching outcomes as well as innovative solutions to critical problems. We recognize that historically, the job markets and academic communities in statistical theory and methods, financial mathematics, and actuarial science have been weighted toward racial, gender, and socioeconomically privileged communities. We are dedicated to correcting this imbalance in our own community.\n\n–DEI Statement, from the PSTAT Main Webpage"
-  },
-  {
-    "objectID": "Pages/Resources.html",
-    "href": "Pages/Resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Report an Incident of Bias to the University\nUCSB Office of Diversity, Equity, and Inclusion\nUCSB Wellbeing Page on DEI\nUCSB First-Generation Community\nUCSB Office of Black Student Development (OBSD)\nUCSB Office of Title IX and Sexual Harassment Policy Compliance"
-  },
-  {
-    "objectID": "Pages/Resources.html#on-campus",
-    "href": "Pages/Resources.html#on-campus",
-    "title": "Resources",
-    "section": "",
-    "text": "Report an Incident of Bias to the University\nUCSB Office of Diversity, Equity, and Inclusion\nUCSB Wellbeing Page on DEI\nUCSB First-Generation Community\nUCSB Office of Black Student Development (OBSD)\nUCSB Office of Title IX and Sexual Harassment Policy Compliance"
-  },
-  {
-    "objectID": "Pages/Resources.html#off-campus",
-    "href": "Pages/Resources.html#off-campus",
-    "title": "Resources",
-    "section": "Off-Campus",
-    "text": "Off-Campus\n\nJustice, Equity, Diversity, and Inclusion (JEDI) Outreach Group (through the American Statistical Association)\nOut in Stem (oSTEM)\nAssociation for Women in Mathematics (AWM)"
   }
 ]
