@@ -153,25 +153,25 @@ Short biography can go here, with some interesting facts and perhaps some words 
 
 
 
-<!-- OFFICER: Dr. Ravat -->
+<!-- OFFICER: Jessie Priestley -->
 :::{.callout-note collapse="false"}
-## Dr. Uma Ravat (she/her)
+## Jessie Priestley (she/her)
 
 :::{style="padding-left:10px"}
-### **Dr. Uma Ravat (she/her)**
+### **Jessie Priestley (she/her)**
 
 ::::{.columns}
 
 :::{.column width="30%"}
-<img src = "../Images/Profiles/Ravat_UV.jpg" width = 70%>
+<img src = "../Images/Profiles/Priestley_Jessie.jpg" width = 70%>
 :::
 
 :::{.column width="70%"}
 
 Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
 
-- **Departmental Role:** Assistant Teaching Professor
-- **Email:** <a href="mailto:umaravat@pstat.ucsb.edu">umaravat@pstat.ucsb.edu</a>
+- **Departmental Role:** Academic Coordinator
+- **Email:** <a href="mailto:academic-coordinator@pstat.ucsb.edu">academic-coordinator@pstat.ucsb.edu</a>
 :::
 
 ::::
@@ -242,34 +242,6 @@ Short biography can go here, with some interesting facts and perhaps some words 
 
 ## Graduate and Undergraduate
 
-<!-- OFFICER: Karina -->
-:::{.callout-note collapse="false"}
-## Karina Aponte (she/her)
-
-:::{style="padding-left:10px"}
-### **Karina Aponte (she/her)**
-
-::::{.columns}
-
-:::{.column width="30%"}
-<img src = "../Images/Profiles/placeholder.png" width = 70%>
-:::
-
-:::{.column width="70%"}
-
-Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
-
-- **Departmental Role:** PhD Student
-- **Email:** <a href="mailto:kaponte@pstat.ucsb.edu">kaponte@pstat.ucsb.edu</a>
-:::
-
-::::
-
-:::
-
-:::
-
-
 <!-- OFFICER: Ethan -->
 :::{.callout-note collapse="false"}
 ## Ethan Marzban (he/him)
@@ -298,4 +270,31 @@ Short biography can go here, with some interesting facts and perhaps some words 
 :::
 
 
+
+<!-- OFFICER: Mallory -->
+:::{.callout-note collapse="false"}
+## Mallory Wang (she/her)
+
+:::{style="padding-left:10px"}
+### **Mallory Wang (she/her)**
+
+::::{.columns}
+
+:::{.column width="30%"}
+<img src = "../Images/Profiles/placeholder.png" width = 70%>
+:::
+
+:::{.column width="70%"}
+
+Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+
+- **Departmental Role:** PhD Student
+- **Email:** <a href="mailto:mallorywang@ucsb.edu">mallorywang@ucsb.edu</a>
+:::
+
+::::
+
+:::
+
+:::
 
