@@ -78,7 +78,7 @@ Short biography can go here, with some interesting facts and perhaps some words 
 
 :::{.column width="70%"}
 
-Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+Kallie was born and raised in Santa Barbara and considers herself a California girl at heart. She studied Mathematics at UCSB as an undergrad, and began working for UCSB as an undergrad. After graduation she began working for the ECE dept here at UCSB, transferring after four years to the PBS Dept for an additional 4 years. She has now worked in the PSTAT Dept for two years, and considers Diversity, Equity and Inclusion to be the keystone in any working environment. In her spare time you can find her hanging out with her husband, Chris, and golden retriever, Atticus (Yes! Exactly like Atticus Finch! One of her fictional icons.)
 
 - **Departmental Role:** Business Officer
 - **Email:** <a href="mailto:mso@pstat.ucsb.edu">mso@pstat.ucsb.edu</a>
@@ -168,7 +168,7 @@ Short biography can go here, with some interesting facts and perhaps some words 
 
 :::{.column width="70%"}
 
-Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+Originally from New Mexico, Jessie landed in Santa Barbara in 2023 after attending grad school in Boston. She finds value in working to build equity and foster safer spaces for everyone. In her free time, she likes to hang with her partner and her pets.
 
 - **Departmental Role:** Academic Coordinator
 - **Email:** <a href="mailto:academic-coordinator@pstat.ucsb.edu">academic-coordinator@pstat.ucsb.edu</a>
