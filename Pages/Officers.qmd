@@ -257,9 +257,9 @@ Short biography can go here, with some interesting facts and perhaps some words 
 
 :::{.column width="70%"}
 
-Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+A Seattle native, Ethan moved to Santa Barbara from the Bay Area to join the PhD program back in Fall 2020. Since then, he has been passionate making the department a more welcoming and communal space (in addition to his research, as well as a passion for statistics education). Outside of school, he enjoys discovering new coffee shops, making use of the beautiful Santa Barbara weather, and talking everyone's ears off about cats. Ethan is also currently serving as the Lead Teaching Assistant (TA) for the department and is as such happy to field any questions about or concerns over Teaching Assistantships!
 
-- **Departmental Role:** PhD Student
+- **Departmental Role:** PhD Student and Lead TA
 - **Email:** <a href="mailto:epmarzban@pstat.ucsb.edu">epmarzban@pstat.ucsb.edu</a>
 :::
 
