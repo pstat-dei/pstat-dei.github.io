@@ -8,10 +8,10 @@ The best way to contact us is at <a href="mailto:dei@pstat.ucsb.edu">dei@pstat.u
 
 <!-- OFFICER: Dr. Carter -->
 :::{.callout-note collapse="false"}
-## Dr. Andrew Carter (he/him)
+## Dr. Drew Carter (he/him)
 
 :::{style="padding-left:10px"}
-### **Dr. Andrew Carter (he/him)**
+### **Dr. Drew Carter (he/him)**
 
 ::::{.columns}
 
@@ -212,7 +212,7 @@ Short biography can go here, with some interesting facts and perhaps some words 
 
 <!-- OFFICER: Dr. Swenson -->
 :::{.callout-note collapse="false"}
-## Dr. Julianne Swenson (she/her)
+## Dr. Julie Swenson (she/her)
 
 :::{style="padding-left:10px"}
 ### **Dr. Julie Swenson (she/her)**
