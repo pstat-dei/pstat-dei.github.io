@@ -225,7 +225,7 @@ Short biography can go here, with some interesting facts and perhaps some words 
 
 :::{.column width="70%"}
 
-Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+Julie, a native of the Bay Area, moved to Santa Barbara for grad school and fell in love with the area. Passionate about education, she believes in creating a safe and supportive learning community where all members can thrive. Outside of work, she enjoys reading, hiking, and spending time with her family.
 
 - **Departmental Role:** Continuing Lecturer
 - **Email:** <a href="mailto:swenson@pstat.ucsb.edu">swenson@pstat.ucsb.edu</a>
