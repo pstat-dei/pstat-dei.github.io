@@ -215,7 +215,7 @@ Short biography can go here, with some interesting facts and perhaps some words 
 ## Dr. Julianne Swenson (she/her)
 
 :::{style="padding-left:10px"}
-### **Dr. Julianne Swenson (she/her)**
+### **Dr. Julie Swenson (she/her)**
 
 ::::{.columns}
 
