@@ -138,7 +138,7 @@ Short biography can go here, with some interesting facts and perhaps some words 
 
 :::{.column width="70%"}
 
-Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+Professor Miller joined PSTAT as a Teaching Professor in November 2022. They are interested in teaching statistics and data science to undergraduates, mentoring undergraduate students, and working with and mentoring teaching associates with all things teaching from creating a supportive learning environment where all students are included and feel a sense of belonging to handling challenges as they arise. Additionally, Professor Miller is the faculty advisor for oSTEM@UCSB. Outside of professional activities, they enjoy long walks their golden retriever Luna, bird watching, and hanging out with their fabulous spouse.
 
 - **Departmental Role:** Teaching Professor
 - **Email:** <a href="mailto:jbmiller@pstat.ucsb.edu">jbmiller@pstat.ucsb.edu</a>
