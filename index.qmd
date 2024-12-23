@@ -1,19 +1,28 @@
+<style>
+body {
+  background-image: url('Images/Logos_Icons/map.jpg');
+  background-repeat:        no-repeat;
+  background-attachment:    fixed;
+  background-size:          cover;
+  background-position:      center top;
+  color: white
+}
+</style>
 
-<div class="bgimg">
 
-<h1  style="font-size:60px">
-  DIVERSITY, EQUITY, and INCLUSION
+<h1  style="font-size:60px; color:white">
+  <mark>DIVERSITY, EQUITY, and INCLUSION</mark>
 </h1>
 
 
-<h3>
-  Department of Statistics and Applied Probability
-  <br />
-  University of California, Santa Barbara
+<h3 style="color:white">
+<mark>Department of Statistics and Applied Probability</mark> </h3>
+
+
+<h3 style="color:white">
+<mark>University of California, Santa Barbara</mark>
 </h3>
 
-
-</div>
 
 \
 
@@ -21,4 +30,4 @@ Welcome to the homepage of the Diversity, Equity, and Inclusion (DEI) Subcommitt
 
 Here, you can learn about our department's DEI mission statement, the officers currently serving on the DEI Subcommittee, and any upcoming events being hosted. We also hope to include links to useful resources (both on-campus and off-campus) relating to DEI, department climate, and many other related issues.
 
-The best way to contact us is at <a href="mailto:dei@pstat.ucsb.edu">dei@pstat.ucsb.edu</a>. (Please note that sending an email to this address will result in an email being sent to all [officers](Pages/Officers.html))
+The best way to contact us is at <a href="mailto:dei@pstat.ucsb.edu">dei@pstat.ucsb.edu</a>. (Please note that sending an email to this address will result in an email being sent to all [officers](Pages/Officers.html)) 
