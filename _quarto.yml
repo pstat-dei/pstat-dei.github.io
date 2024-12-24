@@ -23,6 +23,6 @@ website:
 format:
   html:
     theme: 
-      light: [lux, dark.scss]
+      light: [sandstone, dark.scss]
     toc: true
 
