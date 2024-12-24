@@ -2,6 +2,18 @@
 title: "Resources"
 ---
 
+<style>
+body {
+  background-image: url('../Images/Logos_Icons/flower.jpg');
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: lighten;
+  background-repeat:        no-repeat;
+  background-attachment:    fixed;
+  background-size:          cover;
+  background-position:      center top;
+}
+</style>
+
 ## On-Campus
 
 -   <a href="https://studentlife.sa.ucsb.edu/equity-inclusion/bias" target="_blank">Report an Incident of Bias to the University</a>
