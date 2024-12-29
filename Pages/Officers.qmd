@@ -2,6 +2,17 @@
 title: "Officers"
 ---
 
+<style>
+body {
+  background-image: url('../Images/Logos_Icons/network2.png');
+  background-color: rgba(165, 176, 194, 0.25);
+  background-blend-mode: lighten;
+  background-repeat:        no-repeat;
+  background-attachment:    fixed;
+  background-size:          cover;
+  background-position:      center top;
+}
+</style>
 
 The best way to contact us is at <a href="mailto:dei@pstat.ucsb.edu">dei@pstat.ucsb.edu</a>. (Please note that sending an email to this address will result in an email being sent to all officers.)
 
