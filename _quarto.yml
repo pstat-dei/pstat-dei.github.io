@@ -24,5 +24,4 @@ format:
   html:
     theme: 
       light: [sandstone, dark.scss]
-    toc: true
 
