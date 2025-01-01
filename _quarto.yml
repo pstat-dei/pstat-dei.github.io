@@ -25,4 +25,5 @@ format:
     theme: 
       light: [sandstone, dark.scss]
     toc: true
+    linkcolor: "#9403fc"
 
