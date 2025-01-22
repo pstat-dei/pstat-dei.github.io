@@ -60,7 +60,7 @@ Prof. Carter has been a faculty member at UCSB since 2000. He is the Vice Chair 
 
 :::{.column width="70%"}
 
-Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+Biography coming soon!
 
 - **Departmental Role:** Student Affairs Manager and Graduate Program Advisor
 - **Email:** <a href="mailto:studentaffairs@pstat.ucsb.edu">studentaffairs@pstat.ucsb.edu</a>
@@ -121,7 +121,7 @@ Kallie was born and raised in Santa Barbara and considers herself a California g
 
 :::{.column width="70%"}
 
-Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+Biography coming soon!
 
 - **Departmental Role:** Professor (Undergraduate Vice Chair)
 - **Email:** <a href="mailto:meiring@pstat.ucsb.edu">meiring@pstat.ucsb.edu</a>
@@ -209,7 +209,7 @@ Originally from New Mexico, Jessie landed in Santa Barbara in 2023 after attendi
 
 :::{.column width="70%"}
 
-Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+Biography coming soon!
 
 - **Departmental Role:** Assistant Professor
 - **Email:** <a href="mailto:shkolnik@pstat.ucsb.edu">shkolnik@pstat.ucsb.edu</a>
@@ -283,12 +283,12 @@ A Seattle native, Ethan moved to Santa Barbara from the Bay Area to join the PhD
 
 
 
-<!-- OFFICER: Mallory -->
+<!-- OFFICER: Denisse -->
 :::{.callout-note collapse="false"}
-## Mallory Wang (she/her)
+## Denisse Escobar Parra (she/her)
 
 :::{style="padding-left:10px"}
-### **Mallory Wang (she/her)**
+### **Denisse Escobar Parra (she/her)**
 
 ::::{.columns}
 
@@ -298,11 +298,12 @@ A Seattle native, Ethan moved to Santa Barbara from the Bay Area to join the PhD
 
 :::{.column width="70%"}
 
-Short biography can go here, with some interesting facts and perhaps some words about this officer's commitment to DEI efforts.
+Biography coming soon!
 
 - **Departmental Role:** PhD Student
-- **Email:** <a href="mailto:mallorywang@ucsb.edu">mallorywang@ucsb.edu</a>
+- **Email:** <a href="mailto:descobarparra@ucsb.edu">descobarparra@ucsb.edu</a>
 :::
+
 
 ::::
 
