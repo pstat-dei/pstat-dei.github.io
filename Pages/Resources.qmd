@@ -18,6 +18,8 @@ title: "Resources"
 
 -   <a href="https://titleix.ucsb.edu/" target="_blank">UCSB Office of Title IX and Sexual Harassment Policy Compliance</a>
 
+-   <a href="http://uss.sa.ucsb.edu/" target="_blank">UCSB Undocumented Student Services</a>
+
 ## Off-Campus
 
 -   <a href="https://datascijedi.org/" target="_blank">Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group</a> (through the <a href="https://www.amstat.org/" target="_blank">American Statistical Association</a>)
