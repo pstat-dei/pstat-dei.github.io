@@ -282,32 +282,3 @@ A Seattle native, Ethan moved to Santa Barbara from the Bay Area to join the PhD
 :::
 
 
-
-<!-- OFFICER: Denisse -->
-:::{.callout-note collapse="false"}
-## Denisse Escobar Parra (she/her)
-
-:::{style="padding-left:10px"}
-### **Denisse Escobar Parra (she/her)**
-
-::::{.columns}
-
-:::{.column width="30%"}
-<img src = "../Images/Profiles/placeholder.png" width = 70%>
-:::
-
-:::{.column width="70%"}
-
-Biography coming soon!
-
-- **Departmental Role:** PhD Student
-- **Email:** <a href="mailto:descobarparra@ucsb.edu">descobarparra@ucsb.edu</a>
-:::
-
-
-::::
-
-:::
-
-:::
-
